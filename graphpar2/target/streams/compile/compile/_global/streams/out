@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0m/home/idrey/Spark/graphpar2/src/main/scala/par2.scala:98:43: not found: value i[0m
+[0m[[0m[31merror[0m] [0m[0m                    vertexPartition.apply(i) += pid[0m
+[0m[[0m[31merror[0m] [0m[0m                                          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/idrey/Spark/graphpar2/src/main/scala/par2.scala:99:37: value += is not a member of Map[org.apache.spark.graphx.VertexId,Int][0m
+[0m[[0m[31merror[0m] [0m[0m  Expression does not convert to assignment because:[0m
+[0m[[0m[31merror[0m] [0m[0m    not found: value i[0m
+[0m[[0m[31merror[0m] [0m[0m    expansion: partitionVertex = partitionVertex.+(pid.$minus$greater(<i: error>))[0m
+[0m[[0m[31merror[0m] [0m[0m                    partitionVertex += (pid -> i)[0m
+[0m[[0m[31merror[0m] [0m[0m                                    ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

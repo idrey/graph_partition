@@ -1,0 +1,7 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/idrey/Spark/graphpar/target/scala-2.12/par_2.12-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	par$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/idrey/Spark/graphpar/target/scala-2.12/classes/par$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	par.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/idrey/Spark/graphpar/target/scala-2.12/classes/par.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

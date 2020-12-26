@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/idrey/Spark/graphpar/src/main/scala/par.scala:18:13: subgraph is already defined as value subgraph[0m
+[0m[[0m[31merror[0m] [0m[0m        val subgraph = graph.subgraph(epred = edge => PartitionStrategy.RandomVertexCut.getPartition(edge.srcId, edge.dstId, 2) == 1)[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
